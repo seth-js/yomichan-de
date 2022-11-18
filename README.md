@@ -47,6 +47,7 @@ Everything should now be set up for Yomichan.
 <br><br>
 To get the Forvo server working, unzip the `German Forvo` folder from `German Forvo.zip`, and throw it in your Anki addon folder.
 Mine's in `C:\Users\[Username]\AppData\Roaming\Anki2\addons21`.
+Then install <a href="https://ankiweb.net/shared/info/2055492159">AnkiConnect</a>.
 <br><br>
 I should also mention that another feature I added is the ability to hear the inflected version of the word you've clicked on. By clicking the sound button while holding the Alt key, it will play the inflected version (ex. hinbekam instead of hinbekommen).
 
