@@ -23,7 +23,7 @@
  </li>
  <li>Head to the bottom of the Yomichan settings page.</li>
  <li>Select <code>Import Settings</code>.</li>
- <li>Choose <code>yomichan-settings-2022-11-18-22-51-32.json</code></li>
+ <li>Choose <code>yomichan-settings-2022-11-18.json</code></li>
  <li>Go to the <code>Dictionaries</code> section and import <code>German Dictionary.zip</code></li>
 </ol>
 
@@ -39,7 +39,7 @@
  </li>
  <li>Head to the bottom of the Yomichan settings page.</li>
  <li>Select <code>Import Settings</code>.</li>
- <li>Choose <code>yomichan-settings-2022-11-18-22-51-32.json</code></li>
+ <li>Choose <code>yomichan-settings-2022-11-18.json</code></li>
  <li>Go to the <code>Dictionaries</code> section and import <code>German Dictionary.zip</code></li>
 </ol>
 
