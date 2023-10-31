@@ -1,0 +1,17 @@
+{
+  "name": "spanish-kaikki-to-yomichan",
+  "version": "1.0.0",
+  "main": "create-folders.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "https://github.com/seth-js",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^6.0.1",
+    "date-and-time": "^2.4.2",
+    "line-by-line": "^0.1.6"
+  },
+  "description": "Converts Kaikki Spanish JSON to Yomichan compatible dictionary."
+}

@@ -1,0 +1,17 @@
+1. Run `npm i` in this directory.
+
+2. Run `node create-folder.js`.
+
+3. Download the "JSON data for all word senses" at the bottom of the page at:
+   https://kaikki.org/dictionary/German/index.html
+
+4. Move `kaikki.org-dictionary-German.json` to `data/kaikki`.
+
+5. Run `node tidy-up.js`.
+
+6. (optional) Create an array of sentences, throw it into `data/sentences/` and rewrite
+   `create-freq.js` to handle it.
+
+7. Run `make-yomichan.js`.
+
+Now import the dictionary at `data/yomichan/dictionary.zip`.
